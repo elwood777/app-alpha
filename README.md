@@ -1,2 +1,2 @@
-# app-alpha
-ALPHA React application
+# App: ALPHA
+This application is number 1
