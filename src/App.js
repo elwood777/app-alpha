@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import { FaBeer } from 'react-icons/fa';
+import { AiFillAccountBook } from "react-icons/ai";
+import { BsFillCloudHailFill } from "react-icons/bs";
 
 function App() {
   return (
@@ -9,6 +12,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <FaBeer />
+        <AiFillAccountBook />
+        <BsFillCloudHailFill />
         <a
           className="App-link"
           href="https://reactjs.org"

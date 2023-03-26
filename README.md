@@ -1,3 +1,18 @@
+# ALPHA: A React Application Template  
+Author: **Elwood S. Berry**, Frontend Designer & Developer  
+
+## Objective  
+To compose a lean React application starting point that is focused:  
+1. Centralized SASS style to control the theme.
+1. Limited inline styling.
+
+
+
+## Prerequisites  
+1. **VS Code** -  Download and install the latest version of Visual Studio Code.  
+
+---  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
